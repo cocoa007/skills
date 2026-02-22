@@ -13,3 +13,4 @@ Multi-step workflow guides for common agent tasks on the AIBTC platform.
 | [Deploy Contract](./deploy-contract.md) | Deploy a Clarity smart contract to Stacks and verify its on-chain state |
 | [Sign and Verify](./sign-and-verify.md) | Sign messages or structured data using BTC, Stacks, or SIP-018 standards |
 | [Setup Credential Store](./setup-credential-store.md) | Initialize the encrypted credential store and add your first API keys |
+| [Setup Arc Starter](./setup-arc-starter.md) | Build an autonomous agent using the arc-starter dispatch loop template |
